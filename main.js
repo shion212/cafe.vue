@@ -15,7 +15,7 @@ $(function(){
     //５秒後に強制的にHideLoadingScreen()を実行
     setTimeout(function(){
         HideLoadingScreen();
-    },5000);
+    },1500);
 
     //ロード画面を非表示にする関数
     function HideLoadingScreen(){
