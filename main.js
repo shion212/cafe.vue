@@ -18,7 +18,7 @@ $(function(){
 
     
     function HideLoadingScreen(){
-        $load.delay(1200).fadeOut("slow");
+        $load.delay(5000).fadeOut("slow");
     }
 }); 
 
